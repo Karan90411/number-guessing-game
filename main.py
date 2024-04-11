@@ -8,7 +8,7 @@ print("welcome to the Game \n now game starts to continue")
 x = input("press enter")
 import random
 nump = random.randint(0,99)
-# print(nump)
+# print(nump) if anybody wants to see the answer/number
 n = int(input("enter a 2 digit number: "))
 
 while n!=10 :
